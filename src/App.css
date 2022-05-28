@@ -37,6 +37,13 @@
   }
 }
 
+.circle {
+  float: left;
+  border-radius: 50%;
+  background-color: antiquewhite;
+  padding: 40px;
+  margin: 30px;
+}
 .kv {
   display: flex;
   justify-content: center;
